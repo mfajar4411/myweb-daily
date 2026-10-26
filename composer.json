@@ -1,0 +1,13 @@
+{
+    "name": "sman12bjm/crud",
+    "description": "test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "FJR"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "*"
+    }
+}
